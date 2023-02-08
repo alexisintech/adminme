@@ -5,7 +5,7 @@
 ## [Live Demo on Netlify](https://adminme.netlify.app/)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3a62c955-4da0-4f05-aaf0-c7a824096e9e/deploy-status)](https://app.netlify.com/sites/adminme/deploys)
 
-<img src="https://github.com/alexisintech/seize-the-day/blob/main/client/public/imgs/seize-the-day.gif" width="100%" />
+<img src="https://github.com/alexisintech/adminme/blob/main/public/assets/dashboard.jpg" width="100%" />
 
 <!-- FEATURES -->
 ## ⭐ Features
