@@ -18,16 +18,16 @@
 ### Dashboard
 - Metrics, analytics, charts, and other data all viewable in one place (mock data was used)
 
-### Data
-- Manage Team, Contacts Information, and Invoice Balances use Data Grid to display mock data
+### Data (Manage Team, Contacts Information, and Invoice Balances)
+- 3 tables with sort-by functionality use Data Grid to display mock data
 
 ### Pages
-- Profile Form uses Formik and Yup (submitting the button will console log the form data)
-- Calendar has a fully interactive and functional calendar using FullCalendar (refreshing the page will lose any data entered)
-- FAQ Page uses the Accordion component provided by MUI
+- Profile Form built with Formik and validated with Yup (submitting the button will console log the form data)
+- Calendar has a fully interactive and functional calendar with drag+schedule functionality built with FullCalendar (refreshing the page will lose any data entered)
+- FAQ Page features Accordion elements provided by MUI components
 
-### Charts
-- Bar, Pie, Line, and Geography charts were modified using Nivo documentation (mock data was used)
+### Charts (Bar, Pie, Line, Geography)
+- 4 different chart types were customly modified using Nivo documentation
 
 <!-- BUILT WITH -->
 
