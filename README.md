@@ -35,7 +35,7 @@
 
 - React.js, React Router, React Pro Sidebar
 - Vite, Node.js
-- MUI Data Grid
+- MUI, MUI X Data Grid
 - FullCalendar
 - Formik, Yup
 - Nivo
